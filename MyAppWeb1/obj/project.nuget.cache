@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m8H5Su7+XSo=",
+  "success": true,
+  "projectFilePath": "D:\\POC\\MyAppWeb1\\MyAppWeb1\\MyAppWeb1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Prasad.Bhalerao\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
